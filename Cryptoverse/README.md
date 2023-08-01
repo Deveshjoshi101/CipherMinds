@@ -43,10 +43,10 @@ To get started with Cryptoverse, follow these steps:
    git clone https://github.com/yourusername/cipherminds.git
    cd cipherminds/cryptoverse
    Install the project dependencies: npm install
-   
-2. Usage
-To run Cryptoverse locally on your machine, use the command: ng serve
-Once the development server is up and running, open your web browser and visit http://localhost:4200 to access Cryptoverse.
+   ```
+2. Usage:<br>
+To run Cryptoverse locally on your machine, use the command: ```ng serve```
+Once the development server is up and running, open your web browser and visit ```http://localhost:4200``` to access Cryptoverse.
 
 ## Contributing
 We welcome contributions to improve Cryptoverse and add more exciting challenges. If you'd like to contribute, please follow our Contribution Guidelines for more details.
