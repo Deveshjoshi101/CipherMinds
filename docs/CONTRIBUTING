@@ -1,0 +1,47 @@
+Contribution Guidelines
+
+Thank you for considering contributing to CipherMinds. We welcome contributions from the community to help us grow and provide even more exciting challenges and valuable resources. By contributing, you become an essential part of our mission to foster curiosity, problem-solving, and empowerment.
+
+Before you start contributing, please take a moment to review the following guidelines:
+
+Types of Contributions
+We appreciate contributions in the following areas:
+
+Cipher Challenges: Create and submit new cipher challenges that align with our mission and offer engaging and intriguing puzzles.
+
+Articles and Tutorials: Share your knowledge and expertise on cryptography and related topics by contributing well-written articles and tutorials.
+
+Bug Fixes: If you discover any bugs or issues on our platform, feel free to submit bug reports along with suggested fixes.
+
+Improvements: Propose and implement improvements to our website, user interface, and user experience.
+
+Translations: Help us reach a broader audience by translating our content into different languages.
+
+How to Contribute
+Fork the Repository: If you're contributing to the website or challenges, fork this repository to your GitHub account.
+
+Create a Branch: Create a new branch in your forked repository. Use a descriptive name for the branch that summarizes your contribution.
+
+Make Changes: Implement your contribution in the created branch. Ensure your changes align with the project's coding style and guidelines.
+
+Test Your Changes: If applicable, thoroughly test your changes to ensure they work as intended.
+
+Submit a Pull Request: Once you're satisfied with your changes, submit a pull request from your branch to our main repository. Include a clear description of your changes and their purpose.
+
+Review Process: Our team will review your pull request. We may provide feedback or request additional changes before merging.
+
+Merge and Acknowledgment: If your contribution meets our criteria, we'll merge it into the main repository and acknowledge your efforts in our contributors' list.
+
+Code Guidelines
+Follow PEP8 coding style guidelines for Python code.
+Use meaningful variable and function names to enhance code readability.
+Comment your code where necessary to explain complex logic or functionalities.
+Licensing
+By contributing to CipherMinds, you agree to license your contributions under the MIT License. This allows us to distribute and modify your contributions while giving you proper credit for your work.
+
+Code of Conduct
+Please note that we have a Code of Conduct in place to ensure a respectful and inclusive community environment. We expect all contributors to adhere to this code and treat each other with kindness and respect.
+
+If you have any questions or need assistance, feel free to reach out to us at https://discord.gg/GVwyNabu in the feedback section.
+
+Happy contributing! We look forward to your valuable contributions to CipherMinds.
